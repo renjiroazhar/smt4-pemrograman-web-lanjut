@@ -1,0 +1,145 @@
+CRITICAL - 2022-05-25 19:01:35 --> Undefined property: App\Controllers\Blog::$load
+#0 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\app\Controllers\Blog.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 9)
+#1 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(832): App\Controllers\Blog->blog()
+#2 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#3 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-25 19:04:13 --> Declaration of App\Models\BlogModel::insert($data) must be compatible with CodeIgniter\Model::insert($data = null, bool $returnID = true)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-25 19:04:58 --> Declaration of App\Models\BlogModel::insert($data) must be compatible with CodeIgniter\Model::insert($data = null, bool $returnID = true)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-25 19:05:27 --> Declaration of App\Models\BlogModel::delete($id) must be compatible with CodeIgniter\BaseModel::delete($id = null, bool $purge = false)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-05-25 19:06:00 --> Undefined property: App\Controllers\Blog::$load
+#0 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\app\Controllers\Blog.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(832): App\Controllers\Blog->blog()
+#2 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#3 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-25 19:06:19 --> Undefined property: App\Controllers\Blog::$load
+#0 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\app\Controllers\Blog.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(832): App\Controllers\Blog->blog()
+#2 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#3 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-25 19:06:22 --> Undefined property: App\Controllers\Blog::$load
+#0 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\app\Controllers\Blog.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(832): App\Controllers\Blog->blog()
+#2 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#3 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-25 19:28:51 --> Class "CodeIgniter\Model\BlogModel" not found
+#0 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(832): App\Controllers\Blog->blog()
+#1 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#2 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-25 19:31:13 --> Class "CodeIgniter\Model\BlogModel" not found
+#0 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(832): App\Controllers\Blog->blog()
+#1 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#2 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-25 19:33:10 --> Undefined variable $data
+#0 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\app\Views\blog.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 47)
+#1 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\Common.php(1089): CodeIgniter\View\View->render('blog', Array, true)
+#4 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\app\Controllers\Blog.php(13): view('blog', Array)
+#5 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(832): App\Controllers\Blog->blog()
+#6 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#7 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-25 19:35:02 --> Undefined variable $data
+#0 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\app\Views\blog.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 49)
+#1 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\Common.php(1089): CodeIgniter\View\View->render('blog', Array, true)
+#4 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\app\Controllers\Blog.php(13): view('blog', Array)
+#5 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(832): App\Controllers\Blog->blog()
+#6 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#7 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-25 19:35:50 --> Undefined variable $article
+#0 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\app\Views\blog.php(49): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 49)
+#1 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\Common.php(1089): CodeIgniter\View\View->render('blog', Array, true)
+#4 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\app\Controllers\Blog.php(13): view('blog', Array)
+#5 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(832): App\Controllers\Blog->blog()
+#6 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#7 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-25 19:57:14 --> Undefined variable $row
+#0 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\app\Views\blog.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 58)
+#1 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\Common.php(1089): CodeIgniter\View\View->render('blog', Array, true)
+#4 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\app\Controllers\Blog.php(13): view('blog', Array)
+#5 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(832): App\Controllers\Blog->blog()
+#6 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#7 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-25 19:57:26 --> Undefined variable $row
+#0 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\app\Views\blog.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 58)
+#1 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\Common.php(1089): CodeIgniter\View\View->render('blog', Array, true)
+#4 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\app\Controllers\Blog.php(13): view('blog', Array)
+#5 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(832): App\Controllers\Blog->blog()
+#6 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#7 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-25 19:57:40 --> Attempt to read property "start_date" on array
+#0 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\app\Views\blog.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read...', 'C:\\xampp\\htdocs...', 58)
+#1 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\Common.php(1089): CodeIgniter\View\View->render('blog', Array, true)
+#4 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\app\Controllers\Blog.php(13): view('blog', Array)
+#5 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(832): App\Controllers\Blog->blog()
+#6 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#7 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-25 20:16:10 --> Call to undefined function strf()
+#0 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\Common.php(1089): CodeIgniter\View\View->render('blog', Array, true)
+#3 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\app\Controllers\Blog.php(14): view('blog', Array)
+#4 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(832): App\Controllers\Blog->blog()
+#5 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-25 20:18:27 --> Call to a member function format() on string
+#0 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\Common.php(1089): CodeIgniter\View\View->render('blog', Array, true)
+#3 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\app\Controllers\Blog.php(14): view('blog', Array)
+#4 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(832): App\Controllers\Blog->blog()
+#5 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-25 20:19:41 --> Call to a member function getTimestamp() on array
+#0 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\View\View.php(210): include()
+#1 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\Common.php(1089): CodeIgniter\View\View->render('blog', Array, true)
+#3 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\app\Controllers\Blog.php(14): view('blog', Array)
+#4 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(832): App\Controllers\Blog->blog()
+#5 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\kuliah\29_pemrograman_web_lanjut\assignment\10_tugas10_23_05_2022_website_berita_kripto_read\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
